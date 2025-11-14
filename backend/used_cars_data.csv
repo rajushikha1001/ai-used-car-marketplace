@@ -1,0 +1,21 @@
+make,model,year,mileage,condition,location,fuel_type,transmission,owners,accidents,price
+Toyota,Corolla,2015,62000,Good,New York,Petrol,Automatic,1,0,12500
+Honda,Civic,2016,55000,Excellent,California,Petrol,Manual,1,0,14000
+Ford,Focus,2014,80000,Fair,Texas,Diesel,Automatic,2,1,8500
+BMW,3 Series,2017,45000,Excellent,Florida,Petrol,Automatic,1,0,22000
+Audi,A4,2015,70000,Good,New York,Petrol,Automatic,2,0,18000
+Hyundai,Elantra,2013,90000,Fair,Ohio,Petrol,Manual,2,2,6500
+Mercedes,C Class,2018,30000,Excellent,California,Petrol,Automatic,1,0,28000
+Nissan,Altima,2015,75000,Good,Texas,Petrol,Automatic,2,1,11000
+Toyota,Camry,2017,50000,Excellent,Florida,Hybrid,Automatic,1,0,20000
+Honda,Accord,2014,82000,Fair,Chicago,Petrol,Manual,3,2,9000
+Kia,Optima,2016,65000,Good,Georgia,Petrol,Automatic,1,0,12000
+Volkswagen,Passat,2015,74000,Fair,Arizona,Diesel,Manual,2,1,9500
+Ford,Fusion,2016,68000,Good,Nevada,Petrol,Automatic,1,0,11500
+Chevrolet,Malibu,2017,52000,Excellent,Colorado,Petrol,Automatic,1,0,15000
+Hyundai,Sonata,2015,81000,Fair,Ohio,Petrol,Automatic,2,1,8000
+BMW,5 Series,2018,40000,Excellent,California,Diesel,Automatic,1,0,35000
+Mercedes,E Class,2017,47000,Excellent,New York,Diesel,Automatic,1,0,38000
+Lexus,ES 350,2016,52000,Good,Washington,Petrol,Automatic,1,0,24000
+Toyota,RAV4,2015,67000,Good,Oregon,Petrol,Automatic,1,1,16000
+Honda,CR-V,2014,83000,Fair,Texas,Petrol,Automatic,2,1,13000
